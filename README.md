@@ -9,13 +9,11 @@ A project is composed of two files: a Markdown file with headers, and an image. 
 ```mdx
 ---
 id: Scaleout
-uri: https://pebble-ota.s3.ap-east-1.amazonaws.com/Gravel_1_0_2.bin
+uri: https://www.scaleout.com
 slug: Track your steps with Pebble Tracker to prove your activity and earn token rewards
 logo: /img/scaleout/logo.png
 date: 2021-11-10
 author: Big Data
-status: publish
-category: app
 previews:
   [
     /img/scaleout/preview1.png,

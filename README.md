@@ -11,14 +11,14 @@ A project is composed of two files: a Markdown file with headers, and an image. 
 id: Scaleout
 uri: https://www.scaleout.com
 slug: Track your steps with Pebble Tracker to prove your activity and earn token rewards
-logo: /img/scaleout/logo.png
+logo: /assets/scaleout/logo.png
 date: 2021-11-10
 author: Big Data
 previews:
   [
-    /img/scaleout/preview1.png,
-    /img/scaleout/preview2.png,
-    /img/scaleout/preview3.png,
+    /assets/scaleout/preview1.png,
+    /assets/scaleout/preview2.png,
+    /assets/scaleout/preview3.png,
   ]
 data:
   {

@@ -37,3 +37,12 @@ Scaleout is a pioneering federated machine learning company, joining the IoTeX e
 
 Want to learn more? Join the discussion on IoTeX Forum
 ```
+# Data Field Describetion
+appName : App name for this configuration
+appVersion : Version of the application
+configName : Config name
+configVersion : Config version
+trusttreamTopic : Topic used to upload data
+dataChannel : The sensor that needs to upload data
+uploadPeriod : Time interval for uploading data
+preciseGPS : You want a precise location (true) or approximate location (false)
